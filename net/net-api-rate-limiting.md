@@ -79,4 +79,4 @@ app.Run();
 [The throttling pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/rate-limiting-pattern)  
 [The throttling pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/throttling)  
 [Rate limiting middleware in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/performance/rate-limit?view=aspnetcore-7.0)  
-[System.Threading.RateLimiting](https://www.nuget.org/packages/System.Threading.RateLimiting)
+[System.Threading.RateLimiting](https://www.nuget.org/packages/System.Threading.RateLimiting)  
