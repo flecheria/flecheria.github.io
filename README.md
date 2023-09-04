@@ -1,6 +1,4 @@
-:alembic:
-
-Technology is not made for people!
+# Technology is not made for people!
 
 ## API Security
 
